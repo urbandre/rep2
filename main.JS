@@ -1,1 +1,2 @@
-console.log("Text z JS")
+let text = "Tekscik z JS"
+console.log(text)
