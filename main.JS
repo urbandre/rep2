@@ -4,5 +4,5 @@ function fText() {
 
     let text = inputElement.value;
 
-    alert('Abra, kadabra... wpisałeś: ' + '"' + text + '"' + "Zgadza się?   ;-D");
+    alert('Abra, kadabra... wpisałeś: ' + '"' + text + '"' + "  Zgadza się?   ;-D");
   }
